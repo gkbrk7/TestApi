@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "4gCjApZZ3bBYnAqN424lNhcvJJ9TtABTc7U+zQwgsTL2wITf4Lldul1JastuhvP7I68jsXWDBc5umqF0JByc+A==",
+  "dgSpecHash": "WIycXDCUqLNUhAFuzDSzALvYgXMAsAM542IFbVHqADGJaLeH3D9P/EEGNVUXmJGLjxjfDEJs70s3ncJX++J9Cw==",
   "success": true,
   "projectFilePath": "E:\\repos\\TestApi\\TestApi.csproj",
   "expectedPackageFiles": [
@@ -9,7 +9,8 @@
     "C:\\Users\\Gökberk\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
     "C:\\Users\\Gökberk\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
     "C:\\Users\\Gökberk\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
-    "C:\\Users\\Gökberk\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+    "C:\\Users\\Gökberk\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512",
+    "C:\\Users\\Gökberk\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.5\\microsoft.netcore.app.host.win-x64.5.0.5.nupkg.sha512"
   ],
   "logs": []
 }
